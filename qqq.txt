@@ -3,7 +3,4 @@ sdcscsdcg
 
 
 NEW INFO
-
-Через ГитХаб с другого компа
-
-rcommit 3
+git ggggigit
